@@ -1,0 +1,30 @@
+          La bomba            
+           Av loayza             
+           La paz-Bolivia             
+              FACTURA                
+────────────────────────────────────────────
+                 NIT: 43254234  
+       Nº Factura: 202  
+Nº Autorizacion: 548762358498756 
+────────────────────────────────────────────
+asdasf
+
+   Fecha:  17/1/2019       hora:20:58
+Nombre:  pedro    
+Nit/Ci:  84651
+────────────────────────────────────────────
+         Detalle de Compra           
+Administrador: Christian  
+Garzon: Juan      
+Nº de pedido: 1       
+
+Pacena	  14.0	  42.0
+tequina	  13.0	  13.0
+
+       Total a pagar: 55.0
+               Efectivo: 60
+                Cambio: 5.0
+Son:  CINCUENTA Y CINCO CON 0/100 Bs.
+────────────────────────────────────────────
+Codigo de Control: 54-87-62-36-02-95-48
+Fecha límite de emisión:18/04/19
